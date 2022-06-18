@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = saidlova@gmail.com
+	name = veronika saidlova
